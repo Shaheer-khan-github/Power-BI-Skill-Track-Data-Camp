@@ -1,0 +1,25 @@
+﻿AccountDescription,AccountKey,AccountLabel,AccountName,AccountType,CustomMemberOptions,CustomMembers,ETLLoadID,Operator,ParentAccountKey,ValueType
+Administration Expense,7,112300,Administration Expense,Expense,'+,NULL,1,'+,6,Expense
+Back-to-School Ad Cost,16,112930,Back-to-School Ad Cost,Expense,'+,NULL,1,'+,13,Expense
+Business Ad Cost,17,112940,Business Ad Cost,Expense,'+,NULL,1,'+,13,Expense
+Cost of Goods Sold,5,112100,Cost of Goods Sold,Expense,'+,NULL,1,'+,3,Expense
+Expense,3,112000,Expense,Expense,'-,NULL,1,'-,24,Expense
+Holiday Ad Cost,14,112910,Holiday Ad Cost,Expense,'+,NULL,1,'+,13,Expense
+Holiday Ad Cost by Internet,22,112913,Internet,Expense,'+,NULL,1,'+,14,Expense
+Holiday Ad Cost by Other,23,112914,Other,Expense,'+,NULL,1,'+,14,Expense
+Holiday Ad Cost by Print,21,112912,Print,Expense,'+,NULL,1,'+,14,Expense
+Holiday Ad Cost by Radio & TV,20,112911,Radio & TV,Expense,'+,NULL,1,'+,14,Expense
+Human Capital,9,112500,Human Capital,Expense,'+,NULL,1,'+,6,Expense
+Income,2,111000,Income,Income,'+,NULL,1,'+,24,Income
+IT Cost,8,112400,IT Cost,Expense,'+,NULL,1,'+,6,Expense
+"Light, Heat, Communication Cost",10,112600,"Light, Heat, Communication Cost",Expense,'+,NULL,1,'+,6,Expense
+Marketing & Advertisement Cost,13,112900,Marketing Cost,Expense,'+,NULL,1,'+,6,Expense
+Other Expenses,12,112800,Other Expenses,Expense,'+,NULL,1,'+,6,Expense
+Profit and Loss after tax,1,100000,Profit and Loss after tax,NULL,NULL,NULL,1,NULL,NULL,NULL
+Profit and Loss before tax,24,110000,Profit and Loss before tax,NULL,'+,NULL,1,'+,1,NULL
+Property Costs,11,112700,Property Costs,Expense,'+,NULL,1,'+,6,Expense
+Sale Revenue,4,110100,Sale Revenue,Income,'+,NULL,1,'+,2,Income
+"Selling, General & Administrative Expenses",6,112200,"Selling, General & Administrative Expenses",Expense,'+,NULL,1,'+,3,Expense
+Spring Ad Cost,15,112920,Spring Ad Cost,Expense,'+,NULL,1,'+,13,Expense
+Tax Time / Summer Ad Cost,18,112950,Tax Time / Summer Ad Cost,Expense,'+,NULL,1,'+,13,Expense
+Taxation,19,131000,Taxation,Taxation,'-,NULL,1,'-,1,Taxation
