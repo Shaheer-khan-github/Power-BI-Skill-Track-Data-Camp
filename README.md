@@ -1,5 +1,5 @@
 # Power-BI-Skill-Track-Data-Camp
-This is the Power BI Fundamentals Skill Track of Data Camp.
+This is the 6 courses based Power BI Fundamentals Skill Track of Data Camp.
 
 In this track, you’ll learn how to use Power BI—one of the world’s most popular business intelligence tools. Best of all, there’s no prior experience required.
 
