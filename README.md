@@ -7,7 +7,7 @@ It can be used by everyone to quickly clean, analyze, and visualize your team’
 By the end of the track, you'll have all the important basic Power BI skills under your toolbelt and can start using Power BI for your own analyses.
 
 -----------------------------------------------------------------------------------
-The below-given dashboard was designed during course 4
+The below-given dashboards was designed during course 4
 -----------------------------------------------------------------------------------
 ![Case Study Dashboard-1](https://user-images.githubusercontent.com/59821979/184941308-f9ef9513-beb4-446f-987e-b7f466d86720.jpg)
 ![Case Study Dashboard-2](https://user-images.githubusercontent.com/59821979/184941338-8e487a76-4c18-4867-8c65-7e00c3f59c0d.jpg)
